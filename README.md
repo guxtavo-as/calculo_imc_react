@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Cálculo de IMC - React
+<h1>Cálculo de IMC - React</h1>
 </div>
 
 <br />
