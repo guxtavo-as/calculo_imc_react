@@ -3,6 +3,7 @@
 </div>
 
 <br />
+
 ## calculo_imc_react
 
 <p>Passo - 1: executar o comando "yarn" dentro da asta do projeto</p>
